@@ -1,0 +1,5 @@
+C:\Work\Dropbox\GitHub\TelephoneNumberTranslator\TelephoneNumberTranslator\bin\Debug\TelephoneNumberTranslator.exe
+C:\Work\Dropbox\GitHub\TelephoneNumberTranslator\TelephoneNumberTranslator\bin\Debug\TelephoneNumberTranslator.pdb
+C:\Work\Dropbox\GitHub\TelephoneNumberTranslator\TelephoneNumberTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\Dropbox\GitHub\TelephoneNumberTranslator\TelephoneNumberTranslator\obj\x86\Debug\TelephoneNumberTranslator.exe
+C:\Work\Dropbox\GitHub\TelephoneNumberTranslator\TelephoneNumberTranslator\obj\x86\Debug\TelephoneNumberTranslator.pdb
